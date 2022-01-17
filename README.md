@@ -1,3 +1,5 @@
 # double-dragon
 
-different approach to the belt layout 
+different approach on the y-drive layout from zruncho double-dragon design.
+
+original design: https://github.com/zruncho3d/double-dragon
