@@ -2,7 +2,7 @@
 
 first draft on a single stepper y-drive layout from zruncho double-dragon design.
 
-![front](single-y/img/dd.singley1.PNG)
+![front](img/dd.singley1.PNG)
 
 ![front](single-y/img/dd.singley2.PNG)
 
