@@ -1,4 +1,4 @@
-# double-dragon
+# double-dragon - single y-stepper
 
 first draft on a single stepper y-drive layout from zruncho double-dragon design.
 
